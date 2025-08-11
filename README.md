@@ -10,9 +10,7 @@ outlander-wiki/
 ├── style.css
 ├── imagens/
 │   ├── imagem1.jpg
-│   ├── imagem2.jpg
-│   ├── imagem3.jpg
-│   └── imagem4.jpg
+│   └── imagem2.jpg
 └── README.md
 ```
 
